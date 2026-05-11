@@ -9,6 +9,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         {
             // ブロックを削除
             Destroy(gameObject);
+            Debug.Log("こんにちは");
         }
-    }b
+    }
 }
